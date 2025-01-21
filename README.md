@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&fontSize=50&animation=twinkling&text=Welcome%20to%20My%20World%20🚀&fontColor=d6ace6)
-<br><br>
-
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&fontSize=50&animation=twinkling&text=Welcome%20to%20My%20World%20🚀&fontColor=d6ace6" style="display: block; margin: 0 auto;" />
+</div>
 
 ## <div align="center"> 🛠️ 기술 스택 </div>
 <div align="center">
@@ -16,26 +16,20 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solog152" width="400" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=juicyye&show_icons=true&theme=catppuccin_latte" width=460>
+</a>
+</div>
+<br>
+
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solog152" width="500" />
+  <h2 style="font-size: 36px;">🧭 블로그</h2>
+  <img src="https://velog-github-badge.vercel.app/badge/paramkim" width="600"/>
 </div>
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juicyye&layout=donut&show_icons=true&theme=dark&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38%>
-</a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=juicyye&show_icons=true&theme=catppuccin_latte" width=56%>
-</a> 
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juicyye&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=92%/>
-</a>
-
-
-
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&link=https://velog.io/@paramkim/posts/)](https://velog.io/)
