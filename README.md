@@ -17,10 +17,10 @@
 
 <br>
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solog152" width="400" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solog152" width="350" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=juicyye&show_icons=true&theme=catppuccin_latte" width=460>
+<img src="https://github-readme-stats.vercel.app/api?username=juicyye&show_icons=true&theme=catppuccin_latte" width=410>
 </a>
 </div>
 <br>
